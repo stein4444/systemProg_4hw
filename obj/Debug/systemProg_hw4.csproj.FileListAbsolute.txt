@@ -1,0 +1,14 @@
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\MainWindow.g.cs
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\App.g.cs
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4_MarkupCompile.cache
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4_MarkupCompile.lref
+E:\c# 3semestr\system programiring\systemProg_hw4\bin\Debug\systemProg_hw4.exe.config
+E:\c# 3semestr\system programiring\systemProg_hw4\bin\Debug\systemProg_hw4.exe
+E:\c# 3semestr\system programiring\systemProg_hw4\bin\Debug\systemProg_hw4.pdb
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\MainWindow.baml
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4.g.resources
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4.Properties.Resources.resources
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4.csproj.GenerateResource.cache
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4.csproj.CoreCompileInputs.cache
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4.exe
+E:\c# 3semestr\system programiring\systemProg_hw4\obj\Debug\systemProg_hw4.pdb
